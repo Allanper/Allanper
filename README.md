@@ -72,3 +72,5 @@ Programacao-JavaScript(https://github-readme-stats.vercel.app/api/pin/?username=
 dio-lab-open-source(https://github-readme-stats.vercel.app/api/pin/?username=Allanper&repo=nome-do-projeto-2&theme=dark)](https://github.com/Allanper/dio-lab-open-source)
 
 ### Meus Artigos
+
+- "Adoção de Blockchain para Certificações em Normas de Gestão ISO" (em desenvolvimento)
