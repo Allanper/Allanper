@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://www.linkedin.com/in/allanper/">
-     <img align="center" width="100px" src="C:\Users\linda\OneDrive\Área de Trabalho\DIO\BootCamp - Angular-Java">
+     <img align="center" width="100px" src="C:\Users\linda\OneDrive\Área de Trabalho\DIO\BootCamp - Angular-Java\foto.jfif">
     </a>
     <br />
     Olá, eu sou Allan Pereira!
