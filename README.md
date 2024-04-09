@@ -10,7 +10,7 @@
 
 🚀 Constantly Evolving | Open to New Challenges | Exploring New Paths
 
-I aim to evolve in my professional career, always opening new paths for fresh projects. Continuously studying novel concepts and technologies across diverse areas of technology.
+I am to evolve in my professional career, always opening new paths for fresh projects. Continuously studying novel concepts and technologies across diverse areas of technology.
 
 Research Interest Areas:
 
