@@ -64,13 +64,3 @@ Areas of research interest:
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Adiciona espaço entre as badges -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanper&layout=compact" alt="Top Languages">
 </p>
-
-### Meus Principais Projetos
-
-Programacao-JavaScript(https://github-readme-stats.vercel.app/api/pin/?username=Allanper&repo=nome-do-projeto-1&theme=dark)](https://github.com/Allanper/Programacao-JavaScript)
-
-dio-lab-open-source(https://github-readme-stats.vercel.app/api/pin/?username=Allanper&repo=nome-do-projeto-2&theme=dark)](https://github.com/Allanper/dio-lab-open-source)
-
-### Meus Artigos
-
-- "Adoção de Blockchain para Certificações em Normas de Gestão ISO" (em desenvolvimento)
