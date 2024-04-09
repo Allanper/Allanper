@@ -8,15 +8,17 @@
 
                                        "Technology, environment, and humanity together."
 
-I seek to evolve in my professional career, always opening new paths for new projects. I am constantly studying new concepts and technologies in different areas of technology.
+🚀 Constantly Evolving | Open to New Challenges | Exploring New Paths
 
-Areas of research interest:
+I aim to evolve in my professional career, always opening new paths for fresh projects. Continuously studying novel concepts and technologies across diverse areas of technology.
 
--Nanotechnology
--Blockchain
--Artificial intelligence 
--Software development
--Intersection of law and psychology in technology"
+Research Interest Areas:
+
+- Nanotechnology
+- Blockchain
+- Artificial Intelligence
+- Software Development
+- Intersection of Law and Psychology in Technology
 </p>
 
 <p align="center">
