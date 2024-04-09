@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://www.linkedin.com/in/allanper/">Olá, eu sou Allan Pereira!</a>
+    <a>Olá, eu sou Allan Pereira!</a>
 </h1>
 
 
