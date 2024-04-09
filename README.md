@@ -1,10 +1,7 @@
 <h1 align="center">
-    <a href="https://www.linkedin.com/in/allanper/">
-     <img align="center" width="100px" src="https://media.licdn.com/dms/image/D4D35AQEJId8YxRBAzA/profile-framedphoto-shrink_200_200/0/1687830425648?e=1695668400&v=beta&t=--kebuwkoDJlXVRGVZ9_wzuXBe-iqI1TjqNlJhdykeY">
-    </a>
-    <br />
-    Olá, eu sou Allan Pereira!
+    <a href="https://www.linkedin.com/in/allanper/">Olá, eu sou Allan Pereira!</a>
 </h1>
+
 
 <p align="center">
                             "Open to contact for participation in the development of research in various technological areas."
