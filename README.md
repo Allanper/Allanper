@@ -1,31 +1,46 @@
 <h1 align="center">Olá, eu sou Allan Pereira</h1>
-<p align="center"><em>“Aberto a contatos para participação no desenvolvimento de pesquisas em diversas áreas tecnológicas.”</em></p>
-<p align="center"><strong>Tecnologia, meio ambiente e humanidade juntos.</strong></p>
+<p align="center"><em>“Aberto a contatos para participação no desenvolvimento de projetos em diversas áreas tecnológicas.”</em></p>
+<p align="center"><strong>Engenharia, software e sistemas inteligentes.</strong></p>
 
 ---
 
 ## ✨ Sobre Mim
 
-Sou um pesquisador e desenvolvedor multidisciplinar com grande interesse em como a tecnologia pode transformar positivamente a sociedade. Tenho explorado temas como nanotecnologia, IA, blockchain, direito digital e sustentabilidade, conectando sempre o lado humano à inovação.
+Sou engenheiro de telecomunicações com experiência em desenvolvimento web, sistemas embarcados e sinalização urbana. Tenho interesse especial em projetos que envolvem software, automação e inteligência aplicada.
+
+Atualmente atuo na Promeng, como inspetor engenheiro eletrotécnico, responsável pela fiscalização do Projeto SMM (Sistema de Mobilidade Metropolitana) de Coimbra.
 
 ---
 
-## 💡 Citações que Me Inspiram
+## 🚀 Linha do Tempo Profissional
 
-> “A tecnologia move o mundo.” — Steve Jobs  
-> “O futuro pertence àqueles que acreditam na beleza dos seus sonhos.” — Eleanor Roosevelt  
-> “A ciência é o grande antídoto contra o veneno do entusiasmo e da superstição.” — Adam Smith  
+| Período | Cargo | Empresa |
+|--------|-------|---------|
+| 2003 – 2006 | Graduação em Engenharia de Telecomunicações | |
+| Jun 2021 – Set 2021 | Web Developer Júnior | Endiprev |
+| Mar 2022 – Mar 2023 | Software Developer (Analista de Sistemas) | EFAPEL |
+| Mai 2024 – atual | Inspetor Engenheiro Eletrotécnico (Semaforização) | **Promeng** – Projeto SMM Coimbra |
 
 ---
 
-## 🔬 Áreas de Interesse
+## 📂 Organização dos Repositórios
 
-- Nanotecnologia & Biotecnologia  
-- Blockchain & Criptoativos  
-- Inteligência Artificial e Ética  
-- Desenvolvimento de Software  
-- Psicologia e Direito aplicados à Tecnologia  
-- Sustentabilidade e Tecnologia Verde  
+- **/projetos/** – Aplicações, ferramentas, soluções completas  
+- **/estudos/** – Provas de conceito, tutoriais, aprendizados técnicos  
+- **/artigos/** – Textos técnicos, anotações, guias e traduções  
+
+---
+
+## 💡 Ideias de Projetos Pessoais
+
+- **smart-traffic-simulator** – Simulador de semáforos com lógica adaptativa  
+- **iot-traffic-dashboard** – Painel web com dados de tráfego simulados  
+- **api-sinalizacao-inteligente** – Backend para gerenciar cruzamentos e prioridades  
+- **painel-admin-base** – Sistema genérico de gestão (permissões, usuários, dados)  
+- **site-portifolio-allan** – Site pessoal com blog e projetos (Next.js ou Astro)  
+- **parser-logs-sistemas** – Ferramenta para análise de logs de aplicações  
+- **estudo-redes-iot** – Documentação e testes com LoRa, Zigbee e protocolos industriais  
+- **mqtt-sensor-lab** – Projeto de simulação de sensores com Node.js + MQTT
 
 ---
 
@@ -40,27 +55,7 @@ Sou um pesquisador e desenvolvedor multidisciplinar com grande interesse em como
 
 ---
 
-## 🚀 Linha do Tempo Profissional
-
-| Ano | Evento |
-|-----|--------|
-| 20XX | Início da jornada acadêmica |
-| 20XX | Primeiras pesquisas com nanotecnologia |
-| 20XX | Envolvimento com IA e direito digital |
-| 20XX | Desenvolvimento de soluções em blockchain |
-| 2024 | Foco em projetos multidisciplinares e impacto social |
-
----
-
-## ⭐ Projetos em Destaque
-
-- [**Projeto VerdeTech**](https://github.com/Allanper/ProjetoVerdeTech) – Sustentabilidade com sensores e automação
-- [**AI Legal Tools**](https://github.com/Allanper/AILegalTools) – Inteligência Artificial aplicada ao Direito
-- [**NanoSim**](https://github.com/Allanper/NanoSim) – Simulação de partículas nanotecnológicas
-
----
-
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Allanper&show_icons=true&theme=dracula" alt="stats" />
@@ -83,11 +78,11 @@ Click [here](#hello-i-am-allan-pereira) for the English version.
 
 ## Hello, I am Allan Pereira!
 
-"Open to contact for participation in the development of research in various technological areas."
+Engineer and developer passionate about smart systems, infrastructure and software.
 
-**Technology, environment, and humanity together.**
-
-I’m a multidisciplinary researcher exploring how emerging technologies like AI, blockchain, and nanotech intersect with law, psychology, and society.
+Currently working at **Promeng** as the engineer responsible for the supervision of the **SMM Coimbra Project**, focused on urban mobility and signalization systems.
 
 ---
+
+
 
