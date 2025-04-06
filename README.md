@@ -1,65 +1,93 @@
-<h1 align="center">
-    <a>Olá, eu sou Allan Pereira!</a>
-</h1>
+<h1 align="center">Olá, eu sou Allan Pereira</h1>
+<p align="center"><em>“Aberto a contatos para participação no desenvolvimento de pesquisas em diversas áreas tecnológicas.”</em></p>
+<p align="center"><strong>Tecnologia, meio ambiente e humanidade juntos.</strong></p>
 
+---
+
+## ✨ Sobre Mim
+
+Sou um pesquisador e desenvolvedor multidisciplinar com grande interesse em como a tecnologia pode transformar positivamente a sociedade. Tenho explorado temas como nanotecnologia, IA, blockchain, direito digital e sustentabilidade, conectando sempre o lado humano à inovação.
+
+---
+
+## 💡 Citações que Me Inspiram
+
+> “A tecnologia move o mundo.” — Steve Jobs  
+> “O futuro pertence àqueles que acreditam na beleza dos seus sonhos.” — Eleanor Roosevelt  
+> “A ciência é o grande antídoto contra o veneno do entusiasmo e da superstição.” — Adam Smith  
+
+---
+
+## 🔬 Áreas de Interesse
+
+- Nanotecnologia & Biotecnologia  
+- Blockchain & Criptoativos  
+- Inteligência Artificial e Ética  
+- Desenvolvimento de Software  
+- Psicologia e Direito aplicados à Tecnologia  
+- Sustentabilidade e Tecnologia Verde  
+
+---
+
+## 🧠 Habilidades Técnicas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Linha do Tempo Profissional
+
+| Ano | Evento |
+|-----|--------|
+| 20XX | Início da jornada acadêmica |
+| 20XX | Primeiras pesquisas com nanotecnologia |
+| 20XX | Envolvimento com IA e direito digital |
+| 20XX | Desenvolvimento de soluções em blockchain |
+| 2024 | Foco em projetos multidisciplinares e impacto social |
+
+---
+
+## ⭐ Projetos em Destaque
+
+- [**Projeto VerdeTech**](https://github.com/Allanper/ProjetoVerdeTech) – Sustentabilidade com sensores e automação
+- [**AI Legal Tools**](https://github.com/Allanper/AILegalTools) – Inteligência Artificial aplicada ao Direito
+- [**NanoSim**](https://github.com/Allanper/NanoSim) – Simulação de partículas nanotecnológicas
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
-                            "Open to contact for participation in the development of research in various technological areas."
-
-                                       "Technology, environment, and humanity together."
-
-🚀 Constantly Evolving | Open to New Challenges | Exploring New Paths
-
-I am to evolve in my professional career, always opening new paths for fresh projects. Continuously studying novel concepts and technologies across diverse areas of technology.
-
-Research Interest Areas:
-
-- Nanotechnology
-- Blockchain
-- Artificial Intelligence
-- Software Development
-- Intersection of Law and Psychology in Technology
+  <img src="https://github-readme-stats.vercel.app/api?username=Allanper&show_icons=true&theme=dracula" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanper&layout=compact&theme=dracula" alt="langs" />
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/allanper/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:allanmarp@hotmail.com">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-</p>
+---
 
-### Soft Skills
+## 🌐 Conecte-se Comigo
 
-![Capacidade de Adaptação](https://img.shields.io/badge/Capacidade%20de%20Adaptação-30A3DC?style=for-the-badge)
-![Habilidades Analíticas](https://img.shields.io/badge/Habilidades%20Anal%C3%ADticas-E94D5F?style=for-the-badge)
-![Comunicação Interpessoal](https://img.shields.io/badge/Comunicação%20Interpessoal-181717?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanper)
 
-### Hard Skills
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-30A3DC?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-30A3DC?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tortoise SVN](https://img.shields.io/badge/Tortoise%20SVN-810B14?style=for-the-badge&logo=apache-subversion&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-FFA63D?style=for-the-badge)
-![Decentralized Apps (DApps)](https://img.shields.io/badge/Decentralized%20Apps%20(DApps)-0A66C2?style=for-the-badge)
+## 🌍 English Version
 
-### GitHub Stats
+Click [here](#hello-i-am-allan-pereira) for the English version.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allanper&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Adiciona espaço entre as badges -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanper&layout=compact" alt="Top Languages">
-</p>
+---
+
+## Hello, I am Allan Pereira!
+
+"Open to contact for participation in the development of research in various technological areas."
+
+**Technology, environment, and humanity together.**
+
+I’m a multidisciplinary researcher exploring how emerging technologies like AI, blockchain, and nanotech intersect with law, psychology, and society.
+
+---
+
