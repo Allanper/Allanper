@@ -8,7 +8,7 @@
 
 Sou engenheiro de telecomunicações com experiência em desenvolvimento web, sistemas embarcados e sinalização urbana. Tenho interesse especial em projetos que envolvem software, automação e inteligência aplicada.
 
-Atualmente, atuo na Promeng como inspetor engenheiro eletrotécnico, responsável pela fiscalização do Projeto SMM (Sistema de Mobilidade Mondego) de Coimbra.
+Atualmente, atuo na Promeng como Engenheiro Eletrotécnico/Fiscal (Semaforização), responsável pela fiscalização do Projeto SMM (Sistema de Mobilidade Mondego) de Coimbra.
 
 ---
 
