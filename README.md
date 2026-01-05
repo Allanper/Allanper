@@ -16,9 +16,58 @@ Atualmente trabalho na **PROMENG** como **Electrotechnical Inspection Engineer**
 
 Meu foco é na **integração, validação e confiabilidade operacional** de sistemas de tráfego e ITS, garantindo soluções urbanas seguras, eficientes e dentro dos padrões técnicos.  
 
-Também aplico **ferramentas de software** como suporte à engenharia, com experiência em:  
-**JavaScript, Node.js, Vue.js, C#, Blazor, SQL, MongoDB**, voltados para dashboards, automação e conceitos SCADA.  
+Como pesquisador independente na **Lindva**, exploro tópicos emergentes como **Nanonetworks, Nano-IoT, Comunicações Moleculares e Blockchain/Web3**, investigando como sistemas distribuídos podem melhorar **segurança, rastreabilidade e automação** em infraestruturas inteligentes.
 
-Como pesquisador independente na **Lindva**, exploro tópicos emergentes como **Nanonetworks, Nano-IoT, Comunicações Moleculares e Blockchain/Web3**, investigando como sistemas distribuídos podem melhorar **segurança, rastreabilidade e automação** em infraestruturas inteligentes.  
+---
 
-💡 **Interesses profissionais:** ITS & Urban Mobility | Traffic Signal Systems | Owner-Side Engineering | SCADA & Traffic Management | Smart Cities | Distributed Systems
+## 🛠️ Ferramentas & Conhecimentos Técnicos
+
+Tenho experiência usando algumas ferramentas de software para **suporte à engenharia**, análise de dados e prototipagem:
+
+- **JavaScript / Node.js / Vue.js** – dashboards e protótipos  
+- **C# / Blazor** – ferramentas de automação básica  
+- **SQL / MongoDB** – manipulação e análise de dados  
+
+> Nota: o foco principal da minha carreira é engenharia ITS; programação é usada como ferramenta auxiliar e para aprendizado técnico.
+
+---
+
+## 🚀 Experiência Profissional
+
+| Período                | Cargo                                              | Empresa & Projeto                                      |
+|------------------------|----------------------------------------------------|--------------------------------------------------------|
+| Mai 2024 – Atualmente   | Inspetor Engenheiro Eletrotécnico (Semaforização)   | **PROMENG** – Fiscalização do Projeto SMM (Coimbra)   |
+| Mar 2022 – Mar 2023     | Software Developer (Analista de Sistemas)          | EFAPEL                                                 |
+| Jun 2021 – Set 2021     | Web Developer Júnior                               | Endiprev                                               |
+
+---
+
+## 🎓 Formação
+
+- **Engenharia de Telecomunicações** (2003 – 2006)  
+- **Escola da Nuvem - AWS Fundamentals** (Maio 2023 – Julho 2023)  
+- **Mestrado em Engenharia Informática** – Especialidade em Sistemas de Informação (Atual)  
+
+---
+
+## 📂 Organização dos Repositórios
+
+- **/projetos/** – aplicações, ferramentas e soluções completas  
+- **/estudos/** – provas de conceito e tutoriais técnicos  
+- **/artigos/** – textos técnicos, guias e traduções  
+
+---
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanper)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Allanper&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanper&layout=compact&theme=dracula" alt="Linguagens mais utilizadas" />
+</p>
+
