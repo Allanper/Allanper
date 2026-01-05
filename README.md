@@ -5,7 +5,7 @@
 
 ## ✨ Sobre Mim
 
-Sou engenheiro de telecomunicações especializado em **ITS / Systems Engineering (Owner-Side)**, com foco em **mobilidade urbana** e **infraestruturas críticas**.  
+Sou engenheiro de telecomunicações com experiência em **ITS / Systems Engineering (Owner-Side)**, atuando em **mobilidade urbana** e **infraestruturas críticas**.  
 
 Atualmente trabalho na **PROMENG** como **Electrotechnical Inspection Engineer** no **Mondego Mobility System (SMM)**, representando o projeto proprietário (Metro Mondego / Infraestruturas de Portugal). Minhas responsabilidades incluem:  
 
@@ -22,6 +22,3 @@ Também aplico **ferramentas de software** como suporte à engenharia, com exper
 Como pesquisador independente na **Lindva**, exploro tópicos emergentes como **Nanonetworks, Nano-IoT, Comunicações Moleculares e Blockchain/Web3**, investigando como sistemas distribuídos podem melhorar **segurança, rastreabilidade e automação** em infraestruturas inteligentes.  
 
 💡 **Interesses profissionais:** ITS & Urban Mobility | Traffic Signal Systems | Owner-Side Engineering | SCADA & Traffic Management | Smart Cities | Distributed Systems
-
-
-
